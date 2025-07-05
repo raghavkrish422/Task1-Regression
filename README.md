@@ -16,7 +16,7 @@
 3. The Classification model uses the former dataset consisting of Age, Sex, Cholestrol, Blood Pressure, Fasting Blood Sugar, Maximum Heart Rate achieved
 4. The Regression model uses the latter dataset consisting of the Country with the Happiness Rank, Standard Error, Life Expectancy, Economy etc
 
-#Tasks to perform on these dataset
+# Tasks to perform on these dataset
 1. Perform the Classification and Regression Model using the Heart Problem and World Happiness (2015) datasets
 2. Calculate the accuracy of the modles so created by importing the various packages needed, visualizing them using graphs like histogram, bar chart etc
 3. Downloaded the dataset and loaded it using Pandas and then removed all the null values from the dataset
@@ -25,4 +25,3 @@
 
 # Future Work
 To further implement the further course of action to extend the functions of the Classification and Regression model that I was not able to implement the tasks that I was not able to develop in this task to enhance the performance of the task
-
